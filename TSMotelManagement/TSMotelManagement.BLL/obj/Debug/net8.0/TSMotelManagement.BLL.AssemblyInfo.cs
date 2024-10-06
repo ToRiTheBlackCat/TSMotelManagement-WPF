@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TSMotelManagement.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4119457c5ed7fa975680e5ecc4ceb8585b7c4918")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c105de96ec718cda0afc97716efc4a064c3a9a06")]
 [assembly: System.Reflection.AssemblyProductAttribute("TSMotelManagement.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TSMotelManagement.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
