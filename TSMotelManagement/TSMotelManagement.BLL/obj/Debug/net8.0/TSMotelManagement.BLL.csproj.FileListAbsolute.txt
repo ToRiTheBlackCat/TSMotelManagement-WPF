@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\bin\Debug\net8.0\TSMotelManagement.BLL.deps.json
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\bin\Debug\net8.0\TSMotelManagement.BLL.dll
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\bin\Debug\net8.0\TSMotelManagement.BLL.pdb
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\bin\Debug\net8.0\TSMotelManagement.DAL.dll
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\bin\Debug\net8.0\TSMotelManagement.DAL.pdb
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\obj\Debug\net8.0\TSMotelManagement.BLL.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\obj\Debug\net8.0\TSMotelManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\obj\Debug\net8.0\TSMotelManagement.BLL.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\obj\Debug\net8.0\TSMotelManagement.BLL.AssemblyInfo.cs
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\obj\Debug\net8.0\TSMotelManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\obj\Debug\net8.0\TSMotelManagement.BLL.sourcelink.json
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\obj\Debug\net8.0\TSMotelM.EEB29B66.Up2Date
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\obj\Debug\net8.0\TSMotelManagement.BLL.dll
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\obj\Debug\net8.0\refint\TSMotelManagement.BLL.dll
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\obj\Debug\net8.0\TSMotelManagement.BLL.pdb
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.BLL\obj\Debug\net8.0\ref\TSMotelManagement.BLL.dll

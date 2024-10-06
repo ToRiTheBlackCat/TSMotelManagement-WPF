@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TSMotelManagement.GUI/1.0.0": {
+        "dependencies": {
+          "TSMotelManagement.BLL": "1.0.0"
+        },
+        "runtime": {
+          "TSMotelManagement.GUI.dll": {}
+        }
+      },
+      "TSMotelManagement.BLL/1.0.0": {
+        "dependencies": {
+          "TSMotelManagement.DAL": "1.0.0"
+        },
+        "runtime": {
+          "TSMotelManagement.BLL.dll": {}
+        }
+      },
+      "TSMotelManagement.DAL/1.0.0": {
+        "runtime": {
+          "TSMotelManagement.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TSMotelManagement.GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TSMotelManagement.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TSMotelManagement.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

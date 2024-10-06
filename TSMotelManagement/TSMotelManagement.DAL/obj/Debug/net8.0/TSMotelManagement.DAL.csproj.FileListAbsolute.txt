@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.DAL\bin\Debug\net8.0\TSMotelManagement.DAL.deps.json
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.DAL\bin\Debug\net8.0\TSMotelManagement.DAL.dll
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.DAL\bin\Debug\net8.0\TSMotelManagement.DAL.pdb
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.DAL\obj\Debug\net8.0\TSMotelManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.DAL\obj\Debug\net8.0\TSMotelManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.DAL\obj\Debug\net8.0\TSMotelManagement.DAL.AssemblyInfo.cs
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.DAL\obj\Debug\net8.0\TSMotelManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.DAL\obj\Debug\net8.0\TSMotelManagement.DAL.sourcelink.json
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.DAL\obj\Debug\net8.0\TSMotelManagement.DAL.dll
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.DAL\obj\Debug\net8.0\refint\TSMotelManagement.DAL.dll
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.DAL\obj\Debug\net8.0\TSMotelManagement.DAL.pdb
+C:\Users\PC\Desktop\TSMotelManagement-WPF\TSMotelManagement\TSMotelManagement.DAL\obj\Debug\net8.0\ref\TSMotelManagement.DAL.dll
